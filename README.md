@@ -1,4 +1,4 @@
-dmenu - dynamic menu Version:5.1
+dmenu - : git version to maintain upgrade from suckless
 ---
 dmenu is an efficient dynamic menu for X.
 
